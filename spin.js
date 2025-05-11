@@ -1,0 +1,1 @@
+console.log('Spin JS - ready for customization');
